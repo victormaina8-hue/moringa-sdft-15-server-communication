@@ -73,7 +73,8 @@ document.addEventListener("DOMContentLoaded", function () {
         addNewProduct(product)
     })
 
-})
+}
+function )
 
 
 
