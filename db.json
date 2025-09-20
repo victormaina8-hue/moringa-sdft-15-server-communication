@@ -35,6 +35,22 @@
       "sku": 999,
       "image": "https://picsum.photos/640/480/?image=356",
       "thumbnail": "https://picsum.photos/300/300/?image=685"
+    },
+    {
+      "id": "414f"
+    },
+    {
+      "id": "c279"
+    },
+    {
+      "id": "957d",
+      "title": "Third Product",
+      "content": "Another example!"
+    },
+    {
+      "id": "c52e",
+      "title": "Third Product",
+      "content": "Another example!"
     }
   ]
 }
